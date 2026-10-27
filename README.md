@@ -1,2 +1,2 @@
-# AtividadesIndividuais_POO
+# ATIVIDADESPOO
 Atividades de Programação Orientada a Objetos
